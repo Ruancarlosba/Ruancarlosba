@@ -25,21 +25,28 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Bash Script](https://img.shields.io/badge/-Bash%20Script-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)
-
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=for-the-badge&logo=kali&labelColor=0D1117)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=for-the-badge&logo=kali&labelColor=0D1117)
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&labelColor=0078D4)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)
  
-### Other Knowledge:
+### Soft Skills:
 
 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Comunicação](https://img.shields.io/badge/-Comunicação-0077B5?style=for-the-badge&logo=twitter)
+![Trabalho em Equipe](https://img.shields.io/badge/-Trabalho%20em%20Equipe-4CAF50?style=for-the-badge&logo=teamspeak)
+![Resolução de Problemas](https://img.shields.io/badge/-Resolução%20de%20Problemas-FF9800?style=for-the-badge&logo=linux)
+![Pensamento Crítico](https://img.shields.io/badge/-Pensamento%20Crítico-9C27B0?style=for-the-badge&logo=brain)
 
+
+### Certificações:
+
+- **Curso javascript completo** – [Visualizar Certificado na Udemy](https://www.udemy.com/certificate/UC-0685ea4d-71ee-4f27-94b2-110cc9335fae/)
 
   
 ### Studying in this moment:
