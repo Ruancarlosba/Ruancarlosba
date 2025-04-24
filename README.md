@@ -46,7 +46,9 @@
 
 ### Certificações:
 
-- **Curso javascript completo** – [Visualizar Certificado na Udemy](https://www.udemy.com/certificate/UC-0685ea4d-71ee-4f27-94b2-110cc9335fae/)
+- **Curso javascript completo** – [Certificado da Udemy](https://www.udemy.com/certificate/UC-0685ea4d-71ee-4f27-94b2-110cc9335fae/)
+- **Fundamentos de segurança da informação e pentest** – [Certificado da solyd offensive security](https://solyd.com.br/verificar/yGgsE41YVT/)
+- **Dominando o linux e shell script para pentesters** – [Certificado da solyd offensive security](https://solyd.com.br/verificar/WRm1ctfUFC/)
 
   
 ### Studying in this moment:
