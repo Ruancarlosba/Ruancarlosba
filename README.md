@@ -26,6 +26,7 @@
 ![Bash Script](https://img.shields.io/badge/-Bash%20Script-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Web Pentesting](https://img.shields.io/badge/-Web%20Pentesting-0D1117?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
