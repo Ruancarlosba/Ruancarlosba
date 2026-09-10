@@ -49,11 +49,13 @@
 - **Curso javascript completo** – [Certificado da Udemy](https://www.udemy.com/certificate/UC-0685ea4d-71ee-4f27-94b2-110cc9335fae/)
 - **Fundamentos de segurança da informação e pentest** – [Certificado da solyd offensive security](https://solyd.com.br/verificar/yGgsE41YVT/)
 - **Dominando o linux e shell script para pentesters** – [Certificado da solyd offensive security](https://solyd.com.br/verificar/WRm1ctfUFC/)
+- **Introdução ao Python e Algoritmos** - [Certificado da solyd offensive security](https://solyd.com.br/verificar/US6Pfzqik2/)
+- **Fundamentos de Redes para Pentesters** - [Certificado da solyd offensive security](https://solyd.com.br/verificar/fnYc6RC7LY/)
 
   
 ### Studying in this moment:
 
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Networking](https://img.shields.io/badge/-Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
