@@ -52,6 +52,7 @@
 - **Dominando o linux e shell script para pentesters** – [Certificado da solyd offensive security](https://solyd.com.br/verificar/WRm1ctfUFC/)
 - **Introdução ao Python e Algoritmos** - [Certificado da solyd offensive security](https://solyd.com.br/verificar/US6Pfzqik2/)
 - **Fundamentos de Redes para Pentesters** - [Certificado da solyd offensive security](https://solyd.com.br/verificar/fnYc6RC7LY/)
+- - **Fundamentos de Criptografia e Senhas** - [Certificado da solyd offensive security](https://solyd.com.br/verificar/hkbLpuenCw)
 
   
 ### Studying in this moment:
